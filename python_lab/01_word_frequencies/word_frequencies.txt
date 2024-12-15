@@ -1,0 +1,10 @@
+wikipedia: 2
+to: 2
+readers: 2
+by: 2
+information: 2
+of: 2
+s: 1
+purpose: 1
+is: 1
+benefit: 1
